@@ -10,6 +10,7 @@ public class Test {
             for (int j = 0; j < i; j++) {
                 left = left + abc[j];
             }
+
             if (sum == left * 2 + abc[i]) {
                 System.out.println(i);
                 break;
