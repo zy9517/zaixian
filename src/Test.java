@@ -5,7 +5,7 @@ public class Test {
         for(int n = 0; n < abc.length; n++){
             sum = sum + abc[n];
         }
-        // 123
+
         for (int i = 0; i < abc.length; i++) {
             int left = 0;
             for (int j = 0; j < i; j++) {
